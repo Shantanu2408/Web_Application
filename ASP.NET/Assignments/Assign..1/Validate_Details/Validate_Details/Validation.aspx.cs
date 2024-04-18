@@ -34,7 +34,7 @@ namespace Validate_Details
                 Error_DetectAd("* Enter at least 3 letters");
                 return;
             }
-            
+
 
             if (!System.Text.RegularExpressions.Regex.IsMatch(TextBox4.Text, @"^\d{6}$"))
             {
@@ -57,6 +57,11 @@ namespace Validate_Details
                 Error_Detectemail("* Enter Valid Email Id.");
                 return;
             }
+            if (IsValid)
+            {
+                Response.Redirect("Valid.aspx");
+            }
+            
         }
         protected bool Email_Validation(string Email)
         {
@@ -108,5 +113,7 @@ namespace Validate_Details
         }
 
 
+
     }
+        
 }
