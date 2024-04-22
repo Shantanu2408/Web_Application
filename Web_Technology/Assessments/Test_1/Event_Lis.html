@@ -1,0 +1,23 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        const button = document.createElement('button');
+        button.textContent = 'Click';
+
+        // Adding a Event Listener
+        button.addEventListener('click', () => {document.write('Button has been clicked!');});
+
+        // Appending button 
+        document.write("Click the button to call Event Listener...</br></br>")
+        document.body.appendChild(button);
+    </script>
+</body>
+
+</html>

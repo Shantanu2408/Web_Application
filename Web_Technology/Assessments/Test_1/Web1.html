@@ -1,0 +1,47 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculations</title>
+    <style>
+        #form1
+        {
+            border: 2px solid black;
+            padding-top:50px;
+            padding-bottom:30px;
+            background-color:grey;
+            
+            
+        }
+    </style>
+</head>
+<body>
+    <script>
+        //function for Multiplication
+        function Multiplication() 
+        {
+            var a1 = parseInt(document.getElementById("first_Num").value);
+            var a2 = parseInt(document.getElementById("second_Num").value);
+            document.getElementById("Answer").innerHTML = a1 * a2;
+        }
+
+        //function for Division
+        function Division() 
+        {
+            var b1 = parseInt(document.getElementById("first_Num").value);
+            var b2 = parseInt(document.getElementById("second_Num").value);
+            document.getElementById("Answer").innerHTML = b1 / b2;
+        }
+    </script>
+
+    <div>
+        <form id = "form1">
+            1st Number:&nbsp;&nbsp; <input type="text" id="first_Num"> </br></br>
+            2nd Number:&nbsp; <input type="text" id="second_Num"></br></br>
+            <input type="button" onClick="Multiplication()" value="Multiply">&nbsp;&nbsp;
+            <input type="button" onClick="Division()" value="Divide">
+        </form>
+        <h5>The Result is: <div id ="Answer"></div></h5>
+    </div>
+</body>
+</html>
