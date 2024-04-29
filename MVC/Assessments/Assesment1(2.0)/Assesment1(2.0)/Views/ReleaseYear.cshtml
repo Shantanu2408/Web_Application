@@ -1,0 +1,32 @@
+﻿﻿@model List<Assesment1_2.Models.Movies>
+
+@{
+    ViewBag.Title = "Movies Releasing Year";
+}
+
+<h2>Movies Released in Year @ViewBag.Year</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Movie Name</th>
+                <th>Date of Release</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var movie in Model)
+            {
+                <tr>
+                    <td>@movie.Movie_Name</td>
+                    <td>@movie.DateOfRelease.ToShortDateString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No movies found for the specified year.</p>
+}
