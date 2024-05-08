@@ -1,0 +1,22 @@
+﻿
+@model List<Assessment1.Models.Order>
+
+<h2>Customer Details by Order Date</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderId</td>
+                
+            </tr>
+        }
+    </tbody>
+</table>

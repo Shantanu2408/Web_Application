@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\views\\ekartsys\\customerwithhighestorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\views\\ekartsys\\customerwithhighestorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\controllers\\ekartsyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\controllers\\ekartsyscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\views\\ekartsys\\customerdetailsbyorderdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\views\\ekartsys\\customerdetailsbyorderdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\views\\ekartsys\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\views\\ekartsys\\placeorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\views\\ekartsys\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\views\\ekartsys\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\views\\ekartsys\\displaybill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\views\\ekartsys\\displaybill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\repository\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|d:\\web_technology\\asp.net core\\assessments\\assessment1\\assessment1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71224C8-8C35-4C91-9D4B-AA66B4699119}|Assessment1\\Assessment1.csproj|solutionrelative:assessment1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assessment1\\Models\\NorthwindContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerWithHighestOrder.cshtml",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\CustomerWithHighestOrder.cshtml",
+              "RelativeDocumentMoniker": "Assessment1\\Views\\EkartSys\\CustomerWithHighestOrder.cshtml",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\CustomerWithHighestOrder.cshtml",
+              "RelativeToolTip": "Assessment1\\Views\\EkartSys\\CustomerWithHighestOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:27:35.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetailsByOrderDate.cshtml",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\CustomerDetailsByOrderDate.cshtml",
+              "RelativeDocumentMoniker": "Assessment1\\Views\\EkartSys\\CustomerDetailsByOrderDate.cshtml",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\CustomerDetailsByOrderDate.cshtml",
+              "RelativeToolTip": "Assessment1\\Views\\EkartSys\\CustomerDetailsByOrderDate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:26:09.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayBill.cshtml",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\DisplayBill.cshtml",
+              "RelativeDocumentMoniker": "Assessment1\\Views\\EkartSys\\DisplayBill.cshtml",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\DisplayBill.cshtml",
+              "RelativeToolTip": "Assessment1\\Views\\EkartSys\\DisplayBill.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:23:36.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "Assessment1\\Views\\EkartSys\\OrderDetails.cshtml",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\OrderDetails.cshtml",
+              "RelativeToolTip": "Assessment1\\Views\\EkartSys\\OrderDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:13:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlaceOrder.cshtml",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\PlaceOrder.cshtml",
+              "RelativeDocumentMoniker": "Assessment1\\Views\\EkartSys\\PlaceOrder.cshtml",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Views\\EkartSys\\PlaceOrder.cshtml",
+              "RelativeToolTip": "Assessment1\\Views\\EkartSys\\PlaceOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T06:04:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EkartSysController.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Controllers\\EkartSysController.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Controllers\\EkartSysController.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Controllers\\EkartSysController.cs",
+              "RelativeToolTip": "Assessment1\\Controllers\\EkartSysController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:08:43.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Assessment1\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:29:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Models\\Order.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\Order.cs",
+              "RelativeToolTip": "Assessment1\\Models\\Order.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:15:41.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "orderRepository.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Repository\\orderRepository.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Repository\\orderRepository.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Repository\\orderRepository.cs",
+              "RelativeToolTip": "Assessment1\\Repository\\orderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:59:02.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Repository\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Repository\\IOrderRepository.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Repository\\IOrderRepository.cs",
+              "RelativeToolTip": "Assessment1\\Repository\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:57:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "Assessment1\\Models\\NorthwindContext.cs",
+              "ToolTip": "D:\\Web_Technology\\ASP.NET CORE\\Assessments\\Assessment1\\Assessment1\\Models\\NorthwindContext.cs",
+              "RelativeToolTip": "Assessment1\\Models\\NorthwindContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T04:51:35.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
